@@ -1,0 +1,39 @@
+BSD 2-Clause License
+
+Copyright (c) 2017, Yusuke Yamada
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+以下条項日本語訳：
+次の条件が満たされていれば、ソースおよびバイナリ形式での再配布および使用は、変更の有無にかかわらず許可されます。
+
+*ソースコードの再配布には、上記の著作権表示、この条件リスト、および以下の免責条項を保持する必要があります。
+
+*バイナリ形式の再配布は、上記の著作権表示、この条件一覧、および以下の免責条項を、
+配布に付属のドキュメントおよび/またはその他の資料に複製する必要があります。
+
+本ソフトウェアは、著作権者および寄稿者によって「現状有姿」で提供されており、
+商品性および特定目的への適合性の黙示的な保証を含み、明示または黙示の保証はされていません。
+著作権者または寄稿者は、直接的、間接的、偶発的、偶発的、特別、偶発的、派生的損害
+（代替物品またはサービスの調達、使用、データまたは利益の損失を含むが、これに限定されない。 
+（たとえこのような損害の可能性について知らされていたとしても）、いかなる責任も負わないものとします。
