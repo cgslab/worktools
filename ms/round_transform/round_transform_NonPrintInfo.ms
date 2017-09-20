@@ -1,3 +1,11 @@
+/*
+Creating organization: Forestlight CGSLAB
+Created by: Yusuke Yamada
+Creation date: 2017-09-19
+Mail: y_yamada@cgslab.info
+Public repository: https: //github.com/cgslab/worktools
+License: This script is constrained to the license of the public repository.
+*/
 for i = 1 to $.count do
 (
     cur_angle = quatToEuler (inverse $[i].rotation) --(eulerAngles 0 0 0)
