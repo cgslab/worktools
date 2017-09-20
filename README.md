@@ -1,1 +1,4 @@
-worktools
+# cgslab_worktools
+ここではCGSLABで作成した、公開可能なスクリプトやツールを公開しています。
+
+各ライセンスについては別途LICENSEを確認してください。
